@@ -3,6 +3,6 @@ echo
 
 deactivate
 
-source ~/.game_simulation/bin/activate
+source ~/.ja_reinforecement_learning_lab/bin/activate
 
 echo "[Jean]: game_simulation activate!"
