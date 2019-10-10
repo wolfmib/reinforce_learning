@@ -19,4 +19,7 @@ Repeat: pick web site useful example for practice
 ---
 [Link](https://www.freecodecamp.org/news/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe/)
 
+- Fini la Q-Learning for FrozenLake:
+    - Basic one
+    - Advanced one.  
 
