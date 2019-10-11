@@ -64,7 +64,7 @@ Repeat: pick web site useful example for practice
 37             ]
 -----------
 - you are good to go with import vizdoom automatically when opening the jupyter notebook.  
-
+- install ski-image:  pip3 install scikit-image
   
 
  
