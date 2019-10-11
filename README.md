@@ -45,4 +45,31 @@ Repeat: pick web site useful example for practice
     - Advanced one: ___01_Q_learning-Improve.ipynb___
 
 
+## 02-Deep-Q-Learning Doom
 
+- Follow the [link](https://github.com/mwydmuch/ViZDoom/blob/master/doc/Building.md#macos_deps)
+- source ja_init_virtual_env
+- brew install cmake boost sdl2 wget
+- brew cask install julia
+- pip3 install vizdoom
+- Success installed dans ma mac-book-air
+- add sys.path.append in ipython.configure in mac-air:
+    1. ipython profile create
+    1. cd /Users/johnny_hung/.ipython/profile_default/
+    1. vi ipython_config.py
+        - 
+----------
+35 c.InteractiveShellApp.exec_lines = [
+36             'import sys; sys.path.append("/Users/johnny_hung/.ja_reinforecement_learning_lab/lib/python3.6/site-packages")'
+37             ]
+-----------
+- you are good to go with import vizdoom automatically when opening the jupyter notebook.  
+
+  
+
+ 
+
+
+
+
+ 
